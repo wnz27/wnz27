@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=vue&show_icons=true&hide_title=true" />
 
-#### Hello, 现在 🔭
+#### Hello, 现在  🔭 📫 🌱
 
-🌱 I’m currently learning Go.
+🤔 I’m currently learning Go.
 
 - [个人随笔](https://github.com/wnz27/self-article)
 - [学习记录,年久失修](https://github.com/wnz27/Coding-Daily)
