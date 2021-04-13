@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 - [学习记录,年久失修](https://github.com/wnz27/Coding-Daily)
 - [和团伙的组织](https://github.com/geeknical)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnz27&repo=Coding-Daily)
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=wnz27&repo=self-article" />
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnz27&repo=Algorithms_Note)
