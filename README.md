@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnz27)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+#### Hello, I'm 27 👋
+
+🌱 I’m currently learning Go.
+
+- [个人随笔](https://github.com/wnz27/self-article)
+- [学习记录,年久失修](https://github.com/wnz27/Coding-Daily)
+- [和团伙的组织](https://github.com/geeknical)
 
