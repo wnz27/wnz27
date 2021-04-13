@@ -11,11 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- theme
+  - buefy 
+  - vue-dark 
+  - material-palenight 
 -->
 
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&theme=material-palenight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=buefy&show_icons=true&hide_title=true" />
 
 #### Hello, 现在 👋
 
