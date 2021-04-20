@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=vue-dark&show_icons=true&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=vue&show_icons=true&hide_title=true" />
 
 #### Hello, 现在  🔭 📫 🌱
 
