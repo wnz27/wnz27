@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - theme
   - buefy 
   - vue-dark 
-  - material-palenight 
+  - material-palenight
+  - graywhite
+  - vue
 -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=vue&show_icons=true&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=graywhite&show_icons=true&hide_title=true" />
 
 #### Hello, 现在  🔭 📫 🌱
 
