@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 #### Hello, 现在  🔭 📫 🌱
 
-🤔 I’m currently learning Go.
-And exploring IPFS.
+🤔 I’m currently learning [Go](https://go-proverbs.github.io).
 
 - [个人随笔](https://github.com/wnz27/self-article)
 - [学习记录,年久失修](https://github.com/wnz27/Coding-Daily)
