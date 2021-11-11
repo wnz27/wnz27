@@ -18,15 +18,30 @@ Here are some ideas to get you started:
   - material-palenight
   - graywhite
   - vue
--->
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=graywhite&show_icons=true&hide_title=true" />
-
-#### Hello, 现在  🔭 📫 🌱
-
-🤔 I’m currently learning [Go](https://go-proverbs.github.io).
 
 - [个人随笔](https://github.com/wnz27/self-article)
 - [学习记录,年久失修](https://github.com/wnz27/Coding-Daily)
 - [和团伙的组织](https://github.com/geeknical)
+
+-->
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=graywhite&show_icons=true&hide_title=true&card_width=250&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnz27&theme=graywhite&show_icons=true&hide_title=true$count_private=true&layout=compact&hide=javascript,html,css&card_width=300&line_height=150" />
+
+<br>
+
+🤔 I’m currently learning [Go](https://go-proverbs.github.io).
+
+<br>
+
+
+**Skills:**
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
