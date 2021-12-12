@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 -->
 
+🤔 I’m currently learning [Go](https://go-proverbs.github.io).
 
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=graywhite&show_icons=true&hide_title=true&card_width=250&layout=compact" />
-
 
 **Skills:**
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnz27&theme=graywhite&show_icons=true&hide_title=true$count_private=true&layout=compact&hide=javascript,html,css&card_width=300&line_height=180" />
 
-🤔 I’m currently learning [Go](https://go-proverbs.github.io).
 
 
