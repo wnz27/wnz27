@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 🤔 I’m currently learning [Go](https://go-proverbs.github.io).
 
+认真对待自己的每一行代码
+face to every line of my code seriously
+
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=graywhite&show_icons=true&hide_title=true&card_width=250&layout=compact" />
 
 **Skills:**
