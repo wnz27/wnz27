@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 认真对待自己的每一行代码
 
-face to every line of my code seriously
+Face to every line of my code seriously
+
+Pursue the spirit of craftsman
 
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=graywhite&show_icons=true&hide_title=true&card_width=250&layout=compact" />
 
