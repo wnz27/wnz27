@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 🤔 I’m currently learning [Go](https://go-proverbs.github.io).
 
-认真对待自己的每一行代码
-
 Face to every line of my code seriously
 
 Pursue the spirit of craftsman
