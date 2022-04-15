@@ -32,6 +32,10 @@ Face to every line of my code seriously
 
 Pursue the spirit of craftsman
 
+如果说大写开头的方法是你的责任
+
+那么为大写开头的方法服务的小写的方法是你的义务
+
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=wnz27&theme=graywhite&show_icons=true&hide_title=true&card_width=250&layout=compact" />
 
 **Skills:**
