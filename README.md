@@ -43,7 +43,7 @@ Pursue the spirit of craftsman
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnz27&theme=graywhite&show_icons=true&hide_title=true$count_private=true&layout=compact&hide=javascript,html,css&card_width=300&line_height=180" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnz27&theme=graywhite&show_icons=true&hide_title=true$count_private=true&layout=compact&hide=javascript,html,css,ruby&card_width=300&line_height=180" />
 
 
 
