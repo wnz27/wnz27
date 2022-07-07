@@ -46,6 +46,6 @@ Pursue the spirit of craftsman
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnz27&theme=graywhite&show_icons=true&hide_title=true$count_private=true&layout=compact&hide=javascript,html,css,ruby,TypeScript&card_width=300&line_height=180" />
 
 ### 📈 Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=wnz27&hide_border=true&theme=graywhite)
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=wnz27&hide_border=true&theme=graywhite)
 
 
