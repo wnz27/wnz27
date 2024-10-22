@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 🤔 I’m currently learning [Go](https://go-proverbs.github.io).
 
-Face to every line of my code seriously
+Face to every line of my code seriously. 
 
-Pursue the spirit of craftsman
+Pursue the spirit of craftsman. 🛠️👷‍♂️
 
 By the way I'm a gunner. ⚽️🏟️🔴⚪️️
 
